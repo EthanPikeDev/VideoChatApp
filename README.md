@@ -9,7 +9,7 @@ This is a simple video chat and live chat app built using node and socket.io and
 # Demo:
 ![DemoGIF](https://i.imgur.com/W0Fu36C.png)
 
-[Live Preview](https://ethangraduatehub.herokuapp.com/)
+[Live Preview](https://ethanvideochatapp.herokuapp.com/)
 
 # How to use the app:
 
